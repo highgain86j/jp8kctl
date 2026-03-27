@@ -1,0 +1,1 @@
+Contains the layout for Key & Panel settings.

@@ -1,0 +1,1 @@
+Contains the layout for Effects settings.
